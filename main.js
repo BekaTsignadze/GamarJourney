@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // --- UI Translations ---
   const uiTranslations = {
     nav: {
-      en: { home: 'Home', about: 'About Us', contact: 'Contact', brand: 'GamarJourney' },
+      en: { home: 'Home', about: 'About', contact: 'Contact', brand: 'GamarJourney' },
       ru: { home: 'Главная', about: 'О нас', contact: 'Контакты', brand: 'ГамарДжорни' },
       ar: { home: 'الرئيسية', about: 'معلومات عنا', contact: 'اتصل', brand: 'جامارجورني' }
     },
