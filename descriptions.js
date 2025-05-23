@@ -2,9 +2,9 @@
 // Each key matches a region ID in pathData
 const descriptions = {
   "GE-AB": {
-    en: "Abkhazia is a region in the northwest of Georgia, known for its Black Sea coastline and subtropical climate.",
-    ru: "Абхазия — регион на северо-западе Грузии, известный своим побережьем Черного моря и субтропическим климатом.",
-    ar: "أبخازيا هي منطقة في شمال غرب جورجيا، معروفة بساحلها على البحر الأسود ومناخها شبه الاستوائي."
+    en: "Abkhazia is a region in the northwest of Georgia, known for its Black Sea coastline and subtropical climate. It has been occupied by Russia since the 2008 war.",
+    ru: "Абхазия — регион на северо-западе Грузии, известный своим побережьем Черного моря и субтропическим климатом. С 2008 года находится под оккупацией России.",
+    ar: "أبخازيا هي منطقة في شمال غرب جورجيا، معروفة بساحلها على البحر الأسود ومناخها شبه الاستوائي. وهي تحت الاحتلال الروسي منذ حرب عام 2008."
   },
   "GE-AJ": {
     en: "Ajaria (Adjara) is an autonomous republic in southwestern Georgia, famous for Batumi and its beaches.",
